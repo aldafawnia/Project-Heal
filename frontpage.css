@@ -33,7 +33,24 @@
 }
 
 .lead {
-    text-align: center;
     color: white; 
+}
+
+.section2 {
+    height: 550px;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 35%, rgba(254,252,246,1) 68%, rgba(252,249,237,1) 100%);
+}
+
+.left-text {
+    /* display: flex;
+    align-items: center; */
+    padding: 35px 80px 0 30px;
+    color: black;
+}
+
+.col-vid {
+    display:flex;
+    align-items: center;
 }
 

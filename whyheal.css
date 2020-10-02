@@ -25,12 +25,12 @@
     background-image: url("/images/icon-menu.png");
 }
 
-.content2 > p{
+.content2> p{
     margin: 1.3em 0 1.3em 0;
 }
 
 .section2 {
-    height: 580px;
+    height: 600px;
 }
 
 .line{
@@ -39,4 +39,30 @@
 
 .line-short{
     width:40px;
+}
+
+.section3 {
+    height: 600px;
+}
+
+.content3 > p {
+    margin: 1.3em 0 1.3em 0;
+}
+
+.vidcall img {
+    height: 480px;
+    margin: 0 0 0 100px;
+}
+
+.section4 {
+    height: 600px;
+}
+
+.content4 > p {
+    margin: 1.3em 0 1.3em 0;
+}
+
+.join-community img {
+    height: 550px;
+    margin: 0 0 0 80px;
 }

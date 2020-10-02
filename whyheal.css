@@ -24,3 +24,19 @@
 .navbar-toggler-icon {
     background-image: url("/images/icon-menu.png");
 }
+
+.content2 > p{
+    margin: 1.3em 0 1.3em 0;
+}
+
+.section2 {
+    height: 580px;
+}
+
+.line{
+    border-bottom:4px solid #fcd12a ;
+}
+
+.line-short{
+    width:40px;
+}

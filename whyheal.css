@@ -42,7 +42,7 @@
 }
 
 .section3 {
-    height: 600px;
+    height: 650px;
 }
 
 .content3 > p {
@@ -55,7 +55,7 @@
 }
 
 .section4 {
-    height: 600px;
+    height: 650px;
 }
 
 .content4 > p {
@@ -64,5 +64,5 @@
 
 .join-community img {
     height: 550px;
-    margin: 0 0 0 80px;
+    margin: 0 0 0 20px;
 }

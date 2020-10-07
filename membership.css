@@ -22,7 +22,7 @@
     color: black;
 }
 .navbar-toggler-icon {
-    background-image: url("/images/icon-menu.png");
+    background-image: url("./images/icon-menu.png");
 }
 
 .section2  {

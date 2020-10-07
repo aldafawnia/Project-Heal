@@ -22,5 +22,10 @@
     color: black;
 }
 .navbar-toggler-icon {
-    background-image: url("/images/icon-menu.png");
+    background-image: url("./images/icon-menu.png");
+}
+
+.my-image {
+    height:500px;
+    width: 400px;
 }

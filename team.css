@@ -25,6 +25,6 @@
     background-image: url("/images/icon-menu.png");
 }
 
-/* .card {
-    margin: 2rem 1rem 1rem 2rem;
-} */
+.card{
+    margin: 0 0.3em 0 0.3em;
+}

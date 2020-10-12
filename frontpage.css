@@ -24,7 +24,6 @@
     background-image: url("./images/icon-menu.png")!important;
 }
 
-
 .jumbotron {
     background-image: url("images/calm-ocean.png");
     background-size: cover;
@@ -35,6 +34,7 @@
 
 .lead {
     color: white; 
+    font-size: 23px;
 }
 
 

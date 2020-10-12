@@ -83,9 +83,9 @@ Counsellors and coaches will be able to track the progress of individuals and ca
 - As a customer, I will look for the existing member review because I want to know other people’s opinion before signing up
 ```
 
-## Scope
+# Scope
 
-### Functional Requirement 
+## Functional Requirement 
 
 - Responsive design for different devices
 - Clean and neat layout, that is easy to read
@@ -93,7 +93,7 @@ Counsellors and coaches will be able to track the progress of individuals and ca
 - Videos and images to display and explain the content and also for visual purposes 
 - Each category in navigation bar will link to different pages (6 pages)
 
-### Content Requirement
+## Content Requirement
 
 - Logo leading to main landing page section 
 - How the program works (Why HEAL) section 
@@ -104,17 +104,17 @@ Counsellors and coaches will be able to track the progress of individuals and ca
 - Review section (Testimonials from existing members)
 - Call to action buttons in the main page within each category to link to another page
 
-## Structure 
+# Structure 
 
-### Information Architecture 
+## Information Architecture 
 
 <img src="Information Architecture.png">
 
-### Interaction Design 
+## Interaction Design 
 
 <img src="Interaction Design.png">
 
-## Skeleton 
+# Skeleton 
 
 
 

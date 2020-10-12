@@ -1,28 +1,27 @@
-.navbar-custom {
-    background-color: #fcf9ed;
-    height: 80px;
+.navbar-light {
+    background-color: #fcf9ed!important;
 }
 
 /* change the link color */
-.navbar-custom .navbar-nav .nav-link{
-    color: black;
+.navbar-light .navbar-nav .nav-link{
+    color: black !important;
     opacity: 0.8;
 }
 
-.navbar-custom .nav-item:hover .nav-link{
-    color: #ac900d;
+.navbar-light .nav-item:hover .nav-link{
+    color: #ac900d!important;
 } 
 
 .navbar-brand {
     font-family: 'ZCOOL XiaoWei', serif;
     font-size: 55px;
-    color: #d7bd94;
+    color: #d7bd94!important;
 }
 .navbar-brand:hover {
     color: black;
 }
 .navbar-toggler-icon {
-    background-image: url("./images/icon-menu.png");
+    background-image: url("./images/icon-menu.png")!important;
 }
 
 .card{

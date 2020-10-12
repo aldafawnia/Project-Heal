@@ -32,3 +32,30 @@
 .section2 {
     height:480px;
 }
+
+.footer {
+    background-color:#fcf9ed;
+}
+
+.footer-link{
+    color: black;
+}
+
+a:hover {
+    color: #ac900d;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 55px;
+    color: #d7bd94;
+}
+
+h1:hover {
+    color: black;
+}
+
+h5 {
+    color: grey;
+}

@@ -54,9 +54,9 @@
     margin: 0 0 0 100px;
 }
 
-.section4 {
+/* .section4 {
     height: 650px;
-}
+} */
 
 .content4 > p {
     margin: 1.3em 0 1.3em 0;
@@ -65,4 +65,31 @@
 .join-community img {
     height: 550px;
     margin: 0 0 0 20px;
+}
+
+.footer {
+    background-color:#fcf9ed;
+}
+
+.footer-link{
+    color: black;
+}
+
+a:hover {
+    color: #ac900d;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 55px;
+    color: #d7bd94;
+}
+
+h1:hover {
+    color: black;
+}
+
+h5 {
+    color: grey;
 }

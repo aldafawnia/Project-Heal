@@ -108,7 +108,7 @@ Counsellors and coaches will be able to track the progress of individuals and ca
 
 ### Information Architecture 
 
-<img src="">
+<img src="Information Architecture.png">
 
 
 

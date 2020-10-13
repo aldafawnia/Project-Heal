@@ -18,7 +18,7 @@
     color: #d7bd94!important;
 }
 .navbar-brand:hover {
-    color: black;
+    color: black!important;
 }
 .navbar-toggler-icon {
     background-image: url("./images/icon-menu.png")!important;

@@ -211,6 +211,17 @@ Deploying step for Git Pages:
 3. Change the branch from ‘None’ to ‘Master’
 4. View the site: https://aldafawnia.github.io/Project-Heal/index.html
 
+index.html and frontpage.css cannot be placed in a folder as Github would not be able to initiate the page properly. Additionally, the main page of the webpage has to be named index.html as per Github documentation. 
+
+# Issues
+
+<img src="/images_for_readme/Folder.png">
+<img src="/images_for_readme/In-depth Folder.png">
+
+As shown in the image above, the css and html have been sorted and placed in separate folders to make it neater. However, when pushed to github, github was unable to reflect the changes in the folder structure. 
+
+<img src="/images_for_readme/GitHub.png">
+
 # Credits 
 
 ## Images 

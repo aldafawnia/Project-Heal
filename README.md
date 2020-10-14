@@ -108,11 +108,11 @@ Counsellors and coaches will be able to track the progress of individuals and ca
 
 ## Information Architecture 
 
-<img src="Information Architecture.png">
+<img src="../images_for_readme/Information Architecture.png">
 
 ## Interaction Design 
 
-<img src="Interaction Design.png">
+<img src="../images_for_readme/Interaction Design.png">
 
 # Skeleton 
 
@@ -190,16 +190,16 @@ No major errors found
 
 ## Test Case
 
-<img src="Test Case.png">
+<img src="../images_for_readme/Test Case.png">
 
 When website was deployed, initially the images didn't appear on the webpages. This is because there wasn’t a dot in front of 
 the /images, in which it should have been:
 
-<img src="with dot.png">
+<img src="../images_for_readme/with dot.png">
 
 instead of:
 
-<img src="without dot.png">
+<img src="../images_for_readme/without dot.png">
 
 # Deployment 
 

@@ -176,8 +176,26 @@ Bootstrap 4 is used for the structured layout in order to make it a responsive w
 
 # Testing
 
+## HTML Validation Check
 
+Each HTML pages is validated using W3C Markup Validation Service (https://validator.w3.org/)
 
+No major errors found
+
+## CSS Validation Check 
+
+Each pages css is validated using W3C CSS Validation Service (https://jigsaw.w3.org/css-validator/)
+
+No major errors found
+
+## Test Case
+
+<img src="Test Case.png">
+
+When testing our website, initially the images doesn't come out when deployed. This is because there wasn’t a dot in front of 
+the /images it should have been “<img src=”./images/...> " instead of "<img src="/images/...>". 
+                                                                            
+                                                                        
 
 
 

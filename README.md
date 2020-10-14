@@ -215,10 +215,9 @@ index.html and frontpage.css cannot be placed in a folder as Github would not be
 
 # Issues
 
-<img src="/images_for_readme/Folder.png">
-<img src="/images_for_readme/In-depth Folder.png">
+<img src="/images_for_readme/Folder Structure.png">
 
-As shown in the image above, the css and html have been sorted and placed in separate folders to make it neater. However, when pushed to github, github was unable to reflect the changes in the folder structure. 
+As shown in the image above, in the VSC (Visual Studio Code) the css and html have been sorted and placed in separate folders to make it neater. However, when pushed to github, github was unable to reflect the changes in the folder structure. 
 
 <img src="/images_for_readme/GitHub.png">
 

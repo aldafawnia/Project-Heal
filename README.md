@@ -24,7 +24,7 @@ External User’s goal: The target audience are those who are seeking for extern
 
 # Demo 
 
-The website can be found here: 
+The website can be found here: https://aldafawnia.github.io/Project-Heal/index.html
 
 # Strategy 
 
@@ -175,7 +175,6 @@ Bootstrap 4 is used for the structured layout in order to make it a responsive w
 - Columns used for structuring the sections where text and image are on the same row to make it neater and even
 
 # Testing
-
 
 
 

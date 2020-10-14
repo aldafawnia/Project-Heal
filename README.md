@@ -192,44 +192,85 @@ No major errors found
 
 <img src="Test Case.png">
 
-When testing our website, initially the images doesn't come out when deployed. This is because there wasn’t a dot in front of 
-the /images it should have been “<img src=./images/...> " instead of "<img src=/images/...>". 
-                                                                            
-                                                                        
+When website was deployed, initially the images didn't appear on the webpages. This is because there wasn’t a dot in front of 
+the /images, in which it should have been:
 
+<img src="with dot.png">
 
+instead of:
 
+<img src="without dot.png">
 
+# Deployment 
 
+Before the site is available live. The contents are all git pushed, changes made or any additional add ons are committed towards the github. 
 
+Deploying step for Git Pages:
+1. In the Git Repository, click the ‘setting’ icon 
+2. In the section scroll towards the GitHub Pages section 
+3. Change the branch from ‘None’ to ‘Master’
+4. View the site: https://aldafawnia.github.io/Project-Heal/index.html
 
+# Credits 
 
+## Images 
 
+### Background images
 
+- Jumbotron in the main homepage, photo by Aureta on Instagram 
+https://www.instagram.com/p/B0OMZxGDJ6_/?igshid=114l8gqr4ukcw
+- First section in why heal page - How it works, photo by Mona Eendra on Unsplash
+https://unsplash.com/photos/vC8wj_Kphak
+- First section in membership page, photo by ANIMA ANIMUS on Pinterest
+https://id.pinterest.com/pin/135459901280998641/
+- First section collage in the team page, photo by Joel Mott on Unsplash
+https://unsplash.com/photos/dQBkIZzyM-4
+- First section collage in the team page, photo by Huy Chien Tran from Pexels
+https://www.pexels.com/photo/team-holding-their-hands-on-seashore-1756665/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
+- Login page, photo by Sarai Castro from Pinterest
+https://id.pinterest.com/pin/556687203933635797/
 
+### Carousel in main homepage
 
+- Alfinna, photo by Gabriela Cheloni from Pexels
+https://www.pexels.com/photo/woman-in-black-dress-standing-on-sunflower-field-3845647/
+- Shawn, photo by Wendy Wei from Pexels
+https://www.pexels.com/photo/man-sitting-on-stair-while-smiling-1699159/
+- Audrey, photo by Ike louie Natividad from Pexels
+https://www.pexels.com/photo/woman-smiling-2709388/
 
+### Images of individuals for The Team page 
 
+- Elizabeth Chen, photo by BBH Singapore on Unsplash
+https://unsplash.com/photos/-BC-LrasMKY 
+- Elise Burridge, photo by Edward Cisneros on Unsplash
+https://unsplash.com/photos/_H6wpor9mjs
+- Damon Choi, photo by mentatdgt from Pexels
+https://www.pexels.com/photo/men-s-wearing-black-suit-jacket-and-pants-937481/
+- Karina Law, photo by BBH Singapore on Unsplash
+https://unsplash.com/photos/IfyZ95NqcQo
+- Emily Watanabe, photo by mentatdgt from Pexels
+https://www.pexels.com/photo/woman-posing-937483/
+- Justin Okugawa, photo by Reafon Gates from Pexels
+https://www.pexels.com/photo/photo-of-man-wearing-watch-3221005/
+- Camila Torrez, photo by Michael Dam on Unsplash
+https://unsplash.com/photos/mEZ3PoFGs_k
+- Lydia Dan, photo by Prince Akachi on Unsplash
+https://unsplash.com/photos/i2hoD-C2RUA
 
+### Why HEAL page
 
+- Individualized care section, photo by Rob Thubron on January 15, 2018
+https://www.techspot.com/news/72746-google-duo-now-you-call-people-who-dont.html
+- Join community section, photo by Hillary Ungson on Unsplash
+https://unsplash.com/photos/TdpSX7XAcKo
 
+### Other Image 
 
+Alda's story page and the team 'Alda Fawnia' image are personally mine. 
 
+### Fonts 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Font used for logo is from google fonts. https://fonts.google.com/specimen/ZCOOL+XiaoWei
+Known as 'ZCOOL XiaoWei', serif. 
 

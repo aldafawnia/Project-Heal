@@ -116,6 +116,65 @@ Counsellors and coaches will be able to track the progress of individuals and ca
 
 # Skeleton 
 
+Wireframing has been done through powerpoint. 
+[Link for wireframe pdf](https://drive.google.com/file/d/1TF6Wy7bTltdcW_Rf0TPSRvMZctCDrHtT/view?usp=sharing)
+
+- Arrangment of context in which the images and text are mostly placed side by side instead of top and bottom (except for the team section) are for aesthetic reason and for better flow of webpage. 
+- Navigation bar will be on every page, as users will be able to click on it and link to other pages easily or simply click on logo to return to homepage
+- Footer for aesthetic reason and also allow users to view all the sections at a glance
+
+# Surface 
+
+## Colour
+
+Based on research, light yellow, gold-brown and pastel colours have been used.  
+
+This is because yellow is a colour of positivity which offers hope and happiness. However in order for the users to not feel too overwhelmed by the bright energy, toning it down to pastel colour of yellow has been done to give off more of a warmth, secure atmosphere. 
+
+The use of in between gold-brown colours are becaure gold has similar attributes to the colour yellow and brown. Hence in order to illuminate love, compassion, wholesomeness and reliability; the use of gold-brown has been chosen. As brown is said to affect the mind and body as it creates cozy feelings of stability, peace and relaxation.
+
+## Fonts 
+
+Serif font have been used for the logo of HEAL. While Sans Serif font have been used for all the content in the website. 
+
+The logo uses serif as it gives off to users a sense of trustworthy image and creates a sense of formality and credibility. There is an elegance and confidence to it, allowing the logo or the brand to appear more established, reputable and serious. This is because serif fonts are mostly used in traditional mediums like books and newspapers which is why its normally seen as more classic and refined. By using it in logos, it gives off the feeling that Heal is an educated company alluding to people that they are experienced and knowledgeable.
+
+Meanwhile, sans serif is used in context as it conveys approachability and clean. It is modern and embraces simplicity. As the website aim is to provide a modern recovery digital experience for users, this font is suitable for the context as it is more appropriate for on-screen use. It seems casual, informal and friendly in order to appear more relatable for the users. The use of sans serif helps not to intimidate users.
+
+## Images 
+
+Images selected have been based on aesthetic and warm colours. The pictures chosen on the top pages are mostly selected based on visual suitability and atmosphere that each page wants to bring to the users for them to connect and feel the images. 
+
+Picture of sunset waves on the mainpage aims to bring tranquility and soothing quality. The image on membership section shows a girl riding a bicycle around grass-fields, aiming to give off a sense of freedom, happiness and relaxed. The team section shows collage of gatherings pictures of the members having fun together, this is to allude how dedicated the Heal community is in empowering each other. 
+
+# Features 
+
+## Content 
+
+The website contains information users will seek for and information about the company wants to convey for the users. It contains 6 pages: mainpage, about us - the founder’s story and about the team, why Heal - information on how it works, membership - details about the package subscription provided for users and login page. The main page contains sections where users are able to know just enough information on what the company is about with testimonials, data statistics and videos. Each section in the main page has a call to action button for them to link easily with the other pages, not only relying on navbar. The login page is still for visual purposes as javascript has not been taught hence the site owner will come back to update this website once learned. 
+
+## Responsiveness 
+
+The website is responsive across all devices, it’s user-friendly. There's a navigation bar allowing users to navigate on both header and footer of the site. The navigation bar will collapse into a dropdown option when the screen size is on smaller devices like mobile. It will have a hamburger icon on the top right corner of the navigation bar. The footer navigation bar allows the users to view all the other page links. Allowing users to easily click on the other page without having to scroll up again. 
+
+## Consistency 
+
+The header, footer stay consistent throughout the sit. Except for the login page, footer is not placed there as the section is only 1 page and navbar is readily available on the top. The atmosphere, theme and mood of the website also stays consistent with a similar colour palette that flows and matches well. It allows users to feel in depth the content through the consistent atmosphere each page tries to give.
+
+# Technologies
+
+HTML in structuring the website and CSS in styling are used for this website. 
+
+GitHub for repositories
+
+Bootstrap 4 is used for the structured layout in order to make it a responsive website:
+- Navigation bar 
+- Jumbotron used in the main page
+- Card used for showing the details of the team members page with their image included and also in the membership page for the description of the package available
+- Carousel used in the main page for customers testimonials
+- Columns used for structuring the sections where text and image are on the same row to make it neater and even
+
+# Testing
 
 
 

@@ -274,3 +274,9 @@ Alda's story page and the team 'Alda Fawnia' image are personally mine.
 Font used for logo is from google fonts. https://fonts.google.com/specimen/ZCOOL+XiaoWei
 Known as 'ZCOOL XiaoWei', serif. 
 
+### References
+
+Centers for Disease Control and Prevention, 2020. Mental Health, Substance Use, And Suicidal Ideation During Covid-19 Pandemic - United States, June 24-30, 2020. Morbidity and Mortality Weekly Report (MMWR). [online] Available at: <https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm> [Accessed 8 October 2020].
+
+Kelly, J., 2020. The Pandemic Has Caused An Increase In Anxiety, Stress, Depression And Suicides. [online] Forbes. Available at: <https://www.forbes.com/sites/jackkelly/2020/08/18/the-pandemic-has-caused-an-increase-in-anxiety-stress-depression-and-suicides/#59313c845863> [Accessed 8 October 2020].
+

@@ -108,11 +108,11 @@ Counsellors and coaches will be able to track the progress of individuals and ca
 
 ## Information Architecture 
 
-<img src="../images_for_readme/Information Architecture.png">
+<img src="/images_for_readme/Information Architecture.png">
 
 ## Interaction Design 
 
-<img src="../images_for_readme/Interaction Design.png">
+<img src="/images_for_readme/Interaction Design.png">
 
 # Skeleton 
 
@@ -190,16 +190,16 @@ No major errors found
 
 ## Test Case
 
-<img src="../images_for_readme/Test Case.png">
+<img src="/images_for_readme/Test Case.png">
 
 When website was deployed, initially the images didn't appear on the webpages. This is because there wasn’t a dot in front of 
 the /images, in which it should have been:
 
-<img src="../images_for_readme/with dot.png">
+<img src="/images_for_readme/with dot.png">
 
 instead of:
 
-<img src="../images_for_readme/without dot.png">
+<img src="/images_for_readme/without dot.png">
 
 # Deployment 
 
@@ -210,6 +210,16 @@ Deploying step for Git Pages:
 2. In the section scroll towards the GitHub Pages section 
 3. Change the branch from ‘None’ to ‘Master’
 4. View the site: https://aldafawnia.github.io/Project-Heal/index.html
+
+index.html and frontpage.css cannot be placed in a folder as Github would not be able to initiate the page properly. Additionally, the main page of the webpage has to be named index.html as per Github documentation. 
+
+# Issues
+
+<img src="/images_for_readme/Folder Structure.png">
+
+As shown in the image above, in the VSC (Visual Studio Code) the css and html have been sorted and placed in separate folders to make it neater. However, when pushed to github, github was unable to reflect the changes in the folder structure. 
+
+<img src="/images_for_readme/GitHub.png">
 
 # Credits 
 

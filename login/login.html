@@ -59,16 +59,21 @@
         <div class ="input d-flex flex-column my-4 align-items-center">
           
           <div class="input-group my-2">
-          <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" id="username">
+          <input type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1" id="email" placeholder="Email">
           </div>
         
-          <div class="input-group">
+          <div class="input-group mb-2">
           <input type="text" class="form-control" placeholder="Password" aria-label="Password" aria-describedby="basic-addon1" id="password">
           </div>
+
+          <div>
+          <p id="emailInvalid" style="color:red"></p> 
+          </div>
+        
         </div>
 
         <div class="button d-flex justify-content-center">
-          <input class="btn custom-button mt-2" type="submit" value="Login">
+          <input class="btn custom-button mt-1" type="submit" value="Login" id="login">
         </div>
  
         <div class="links d-flex justify-content-center my-5">

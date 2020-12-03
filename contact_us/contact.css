@@ -1,0 +1,57 @@
+.navbar-light {
+    background-color: #fcf9ed!important;
+}
+
+/* change the link color */
+.navbar-light .navbar-nav .nav-link{
+    color: black !important;
+    opacity: 0.8;
+}
+
+.navbar-light .nav-item:hover .nav-link{
+    color: #ac900d!important;
+} 
+
+.navbar-brand {
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 55px;
+    color: #d7bd94!important;
+}
+.navbar-brand:hover {
+    color: black!important;
+}
+.navbar-toggler-icon {
+    background-image: url("../images/icon-menu.png")!important;
+}
+
+/* .section2  {
+    margin: 30px 0 0 0;
+    /* height: 780px; */
+/* } */ 
+
+.footer {
+    background-color:#fcf9ed;
+}
+
+.footer-link{
+    color: black;
+}
+
+a:hover {
+    color: #ac900d;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 55px;
+    color: #d7bd94;
+}
+
+h1:hover {
+    color: black;
+}
+
+h5 {
+    color: grey;
+}

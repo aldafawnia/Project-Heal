@@ -22,11 +22,11 @@
 }
 
 .navbar-toggler-icon {
-    background-image: url("./images/icon-menu.png")!important;
+    background-image: url("../images/icon-menu.png")!important;
 }
 
 #background-image {
-    background-image: url("./images/background-login.png");
+    background-image: url("../images/background-login.png");
     height: 690px;
 }
 

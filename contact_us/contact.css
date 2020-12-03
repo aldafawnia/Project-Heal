@@ -38,18 +38,18 @@
 }
 
 a:hover {
-    color: #ac900d;
-    text-decoration: none;
+    color: #ac900d!important;
+    text-decoration: none!important;
 }
 
 h1 {
     font-family: 'ZCOOL XiaoWei', serif;
-    font-size: 55px;
-    color: #d7bd94;
+    font-size: 55px!important;
+    color: #d7bd94!important;
 }
 
 h1:hover {
-    color: black;
+    color: black!important;
 }
 
 h5 {

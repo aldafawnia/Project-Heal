@@ -14,7 +14,7 @@
 
 .navbar-brand {
     font-family: 'ZCOOL XiaoWei', serif;
-    font-size: 55px;
+    font-size: 55px!important;
     color: #d7bd94!important;
 }
 .navbar-brand:hover {

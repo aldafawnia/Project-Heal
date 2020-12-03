@@ -24,28 +24,24 @@
     background-image: url("../images/icon-menu.png")!important;
 }
 
-/* .section2  {
-    margin: 30px 0 0 0;
-    /* height: 780px; */
-/* } */ 
-
 .section2 {
     height:500px;
-    margin: 30px 0 0 0;
-}
-
-.formData {
-    padding-top: 08px;
+    padding-top:30px;
 }
 
 .section3{
-    height:600px;
-    padding-top: 50px;
+    height:680px;
+    padding-top: 40px;
+}
+
+.locationSubHeading{
+    font-size: 20px;
 }
 
 .leaflet-popup-content-wrapper{
     background-color:#e9e9e9;
 }
+
 #map {
     height: 70vh;
 }

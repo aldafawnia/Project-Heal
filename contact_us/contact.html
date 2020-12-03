@@ -5,6 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <!-- Map CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+
     <!-- Personal CSS -->
     <link rel="stylesheet" href="./contact.css" type="text/css">
 
@@ -53,7 +58,41 @@
     </section>
 
     <div class="container">
-      
+      <section class="section2">
+        <div class="contactHeading">
+          <h2>Request a consultation</h2>
+          <h5>We’re here to help, drop us a line if you’ve any query or contact us. </h5>
+        </div>
+        <form class="formData">
+          <div class="row my-3">
+            <div class="col">
+              <label for="InputFirstName">First Name</label>
+              <input type="text" class="form-control" id="firstName">
+            </div>
+            <div class="col">
+              <label for="InputLastName">Last Name</label>
+              <input type="text" class="form-control" id="lastName">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="exampleInputEmail1">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone.</small>
+          </div>
+          <div class="form-group">
+            <label for="exampleFormControlTextarea1">Message</label>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary mt-2">Submit</button>
+        </form>
+      </section>
+
+      <section class="section3">
+        <div id="map">
+
+        </div>
+      </section>
+
     </div>
 
     <div class="footer mt-5 d-flex d-sm-none justify-content-center pt-3">
@@ -151,6 +190,9 @@
        </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+            integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+            crossorigin=""></script>
     <script src="contact.js"></script>
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

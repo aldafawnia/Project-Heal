@@ -29,6 +29,23 @@
     /* height: 780px; */
 /* } */ 
 
+.section2 {
+    height:500px;
+    margin: 30px 0 0 0;
+}
+
+.formData {
+    padding-top: 08px;
+}
+
+.section3{
+    height:600px;
+    padding-top: 50px;
+}
+#map {
+    height: 70vh;
+}
+
 .footer {
     background-color:#fcf9ed;
 }

@@ -1,3 +1,25 @@
+
+document.querySelector('#submitBtn').addEventListener('click', function(e){
+    e.preventDefault();
+    const formElement = document.querySelector('.formData')
+    formElement.checkValidity()
+    formElement.reportValidity()
+    
+    let formControlTextIsInvalid = false;
+
+    let formControlText = document.querySelector('#formControlText').value
+    if (formControlText.split(" ").length > 150 || formControlText.split(" ").length < 5){
+        formControlTextIsInvalid= true;
+    }
+
+    let alert = document.querySelector('#messageInvalid')
+    alert.innerHTML = "";
+    if (formControlTextIsInvalid){
+        alert.innerHTML="*Missing details need to be filled in"; 
+    }
+
+})
+
 let camdenSingapore = [1.3032,103.8239];
 let map= L.map('map').setView(camdenSingapore,14);
 
@@ -20,4 +42,3 @@ camdenMarker.bindPopup(`
 <hr>
 <p class="clinic">#14-02, Heal Therapy Clinic<p>
 </div>`);
-

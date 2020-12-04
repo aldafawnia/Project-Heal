@@ -29,6 +29,10 @@
     padding-top:30px;
 }
 
+#submitBtn {
+    display:block;
+}
+
 .section3{
     height:680px;
     padding-top: 40px;

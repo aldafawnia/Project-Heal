@@ -24,6 +24,12 @@
     background-image: url("./images/icon-menu.png")!important;
 }
 
+.card-title{
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 48px;
+    color: #d7bd94!important;
+}
+
 .section2  {
     margin: 30px 0 0 0;
     /* height: 780px; */

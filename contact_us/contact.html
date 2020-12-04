@@ -66,8 +66,8 @@
         <form class="formData">
           <div class="row my-3">
             <div class="col">
-              <label for="InputFirstName">First Name</label>
-              <input type="text" class="form-control" id="firstName">
+              <label for="InputFirstName">*First Name</label>
+              <input type="text" class="form-control" id="firstName" required>
             </div>
             <div class="col">
               <label for="InputLastName">Last Name</label>
@@ -75,15 +75,18 @@
             </div>
           </div>
           <div class="form-group">
-            <label for="exampleInputEmail1">Email address</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <label for="inputEmail">*Email address</label>
+            <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" required>
             <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone.</small>
           </div>
           <div class="form-group">
-            <label for="exampleFormControlTextarea1">Message</label>
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            <label for="formControlText">*Message</label>
+            <textarea class="form-control" id="formControlText" rows="3" required></textarea>
           </div>
-          <button type="submit" class="btn btn-primary mt-2">Submit</button>
+          <div>
+            <p id="messageInvalid" style="color:red"></p> 
+          </div>
+          <button id="submitBtn" type="submit" class="btn btn-primary mt-2 ml-auto">Submit</button>
         </form>
       </section>
 

@@ -196,7 +196,7 @@ No major errors found
 
 <img src="/images_for_readme/Test Case.png">
 
-When website was deployed, initially the images didn't appear on the webpages. This is because there wasn’t a dot in front of 
+When website was deployed, initially the images didn't appear on the webpages. This is because there wasn’t a double dot in front of 
 the /images, in which it should have been:
 
 <img src="/images_for_readme/with dot.png">

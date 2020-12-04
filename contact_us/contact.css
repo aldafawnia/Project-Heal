@@ -33,6 +33,14 @@
 
 #submitBtn {
     display:block;
+    background-color: #fae29c;
+    color: #875c36;
+    width:160px;
+}
+
+#submitBtn:hover{
+    color:black;
+    background-color: #eedc9a;
 }
 
 .section3{

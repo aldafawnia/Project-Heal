@@ -167,7 +167,9 @@ The header, footer stay consistent throughout the sit. Except for the login page
 
 # Technologies
 
-HTML in structuring the website and CSS in styling are used for this website. JavaScript is used for form validation and leaflet for map location. 
+HTML in structuring the website and CSS in styling are used for this website. 
+
+JavaScript is used for form validation and leaflet for map location. 
 
 GitHub for repositories
 
@@ -196,14 +198,13 @@ No major errors found
 
 <img src="/images_for_readme/Test Case.png">
 
-When website was deployed, initially the images didn't appear on the webpages. This is because there wasn’t a double dot in front of 
-the /images, in which it should have been:
+When website was deployed, initially the images and pages didn't appear on the webpages. This is because there wasn’t a double dot in front of the /images, in which it should have been: 
 
-<img src="/images_for_readme/with dot.png">
+<img src="/images_for_readme/initial.png">
 
 instead of:
 
-<img src="/images_for_readme/without dot.png">
+<img src="/images_for_readme/after.png">
 
 # Deployment 
 

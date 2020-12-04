@@ -25,8 +25,10 @@
 }
 
 .section2 {
-    height:500px;
+    height:520px;
     padding-top:30px;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 29%, rgba(254,252,246,1) 64%, rgba(249,242,214,1) 100%);
 }
 
 #submitBtn {

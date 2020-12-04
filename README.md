@@ -121,7 +121,7 @@ Counsellors and coaches will be able to track the progress of individuals and ca
 # Skeleton 
 
 Wireframing has been done through powerpoint. 
-[Link for wireframe pdf](https://drive.google.com/file/d/1TF6Wy7bTltdcW_Rf0TPSRvMZctCDrHtT/view?usp=sharing)
+[Link for wireframe pdf](https://drive.google.com/file/d/1cNURgqQSQKf1LHIpBvNJ765bpyNQPTF5/view?usp=sharing)
 
 - Arrangment of context in which the images and text are mostly placed side by side instead of top and bottom (except for the team section) are for aesthetic reason and for better flow of webpage. 
 - Navigation bar will be on every page, as users will be able to click on it and link to other pages easily or simply click on logo to return to homepage

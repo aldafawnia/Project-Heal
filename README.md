@@ -8,13 +8,14 @@ This project requires us to use HTML and CSS for a website. The website is a per
 smoking and alcohol as well as those facing anxiety and depression. 
 It aims to empower and help people through a community and expert counsellors available online, in guiding them towards a better lifestyle. 
 
-The 6 pages include: 
+The 7 pages include: 
 ``` 
 - Story about the founder 
 - A short description on what the program is about
 - How the membership works 
 - About the team 
 - Reviews about the members who had undergone the program
+- Contact page about the location of the physical clinic and a form for user to send
 - A login page for existing members (Since javascript hasn’t been taught the login page is a prototype and only for design flow)
 ```
 
@@ -81,6 +82,8 @@ Counsellors and coaches will be able to track the progress of individuals and ca
 - As a customer, I will look for the team members to able to search them in linkedin for more information of their professional background
 - As a customer, I will seek for the membership program, to check the pricing so that I can calculate if the package is worth my money 
 - As a customer, I will look for the existing member review because I want to know other people’s opinion before signing up
+- As a customer, I will look for the contact us page, to check the clinic location and how to get in contact with the clinic 
+- As a customer, I will go to the login page, to login to my account
 ```
 
 # Scope
@@ -91,7 +94,7 @@ Counsellors and coaches will be able to track the progress of individuals and ca
 - Clean and neat layout, that is easy to read
 - Using bootcamp for navigation bar and structure layout 
 - Videos and images to display and explain the content and also for visual purposes 
-- Each category in navigation bar will link to different pages (6 pages)
+- Each category in navigation bar will link to different pages (7 pages)
 
 ## Content Requirement
 
@@ -102,6 +105,7 @@ Counsellors and coaches will be able to track the progress of individuals and ca
 - About us - the team section
 - Login section - for existing members 
 - Review section (Testimonials from existing members)
+- Contact Us section for new members who have queries and want to know the whereas about of the physical clinic 
 - Call to action buttons in the main page within each category to link to another page
 
 # Structure 
@@ -163,7 +167,7 @@ The header, footer stay consistent throughout the sit. Except for the login page
 
 # Technologies
 
-HTML in structuring the website and CSS in styling are used for this website. 
+HTML in structuring the website and CSS in styling are used for this website. JavaScript is used for form validation and leaflet for map location. 
 
 GitHub for repositories
 
@@ -215,11 +219,7 @@ index.html and frontpage.css cannot be placed in a folder as Github would not be
 
 # Issues
 
-<img src="/images_for_readme/Folder Structure.png">
-
-As shown in the image above, in the VSC (Visual Studio Code) the css and html have been sorted and placed in separate folders to make it neater. However, when pushed to github, github was unable to reflect the changes in the folder structure. 
-
-<img src="/images_for_readme/GitHub.png">
+Initial issues occured when 
 
 # Credits 
 
@@ -237,6 +237,8 @@ https://id.pinterest.com/pin/135459901280998641/
 https://unsplash.com/photos/dQBkIZzyM-4
 - First section collage in the team page, photo by Huy Chien Tran from Pexels
 https://www.pexels.com/photo/team-holding-their-hands-on-seashore-1756665/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
+- Contact Us page, Photo by Aaron Burden from Pexels
+https://www.pexels.com/photo/white-daisy-flower-bloom-2449543/
 - Login page, photo by Sarai Castro from Pinterest
 https://id.pinterest.com/pin/556687203933635797/
 

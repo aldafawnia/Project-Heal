@@ -1,5 +1,22 @@
 [{
     "plan": "Monthly",
     "price": "£150/month",
-    "description": "First timer will be able to try our program for free on the first week. Our monthly program is affective for those who are recovering or would like to know more about how HEAL works."
-}]
+    "description": "First timer will be able to try our program for free on the first week. Our monthly program is affective for those who are recovering or would like to know more about how HEAL works.",
+    "lists":["24/7 access to our private online community", "Local and virtual groups and events",
+        "Individualized recovery plan for a month", "Weekly meetings and Group support",
+        "Daily positive emails", "Monthly program with live workshops and Q&A",
+        "1 session of therapy", "2 sessions of accountability coaching"],
+    "add-on": "* Add ons session for therapy and coaching available"   
+},{
+    "plan":"Annually",
+    "price": "£1,500/year",
+    "description":"The most effective result will be seen through a long term plan. Our dedicated team will always be there for you through your journey.",
+    "lists": ["24/7 ready to answer call and chat service with our counsellors", "24/7 access to our private online community",
+    "Local and virtual groups and events","Intensive Individualized program",
+    "Weekly meetings and Group support","Have a fix midweek groups for a year",
+    "Daily positive emails", "Weekly program with live workshops and Q&A",
+    "13 sessions of therapy", "27 sessions of accountability coaching",
+    "Exclusive meetings and group support for intensive members"],
+    "add-on":"* Add ons session for therapy and coaching available"
+}
+] 

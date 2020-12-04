@@ -34,7 +34,18 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 }).addTo(map);
 
 // add market 
-let camdenMarker = L.marker([1.3032,103.8239]);
+let newIcon = L.icon({
+    iconUrl: 'marker.png',
+    shadowUrl: 'marker-shadow.png',
+
+    iconSize:     [65, 75], // size of the icon
+    shadowSize:   [70, 34], // size of the shadow
+    iconAnchor:   [22, 54], // point of the icon which will correspond to marker's location
+    shadowAnchor: [20, -10],  // the same for the shadow
+    popupAnchor:  [10, -50] // point from which the popup should open relative to the iconAnchor
+});
+
+let camdenMarker = L.marker([1.3032,103.8239],{icon:newIcon});
 camdenMarker.addTo(map);
 camdenMarker.bindPopup(`
 <div>

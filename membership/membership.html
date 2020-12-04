@@ -59,13 +59,13 @@
           <div class="row d-flex justify-content-center">
             <div class="col-md-4">
               <div class="card">
-                <div class="card-body">
-                  <h1 class="card-title text-center"> Monthly </h1> <br> 
-                  <h4 class="price-text text-center"> £150/month </h4> <br>
-                  <h6 class="about-text text-justify"> First timer will be able to try our program for free on the first week.
+                <div class="card-body" id="monthCard">
+                  <h1 class="card-title text-center" id="monthly"> Monthly </h1> <br> 
+                  <h4 class="price-text text-center" id="monthPrice"> £150/month </h4> <br>
+                  <h6 class="about-text text-justify" id="monthDescriptiom"> First timer will be able to try our program for free on the first week.
                       Our monthly program is affective for those who are recovering or would like to know more about how HEAL works. 
                   </h6>
-                  <p class="card-text">
+                  <p class="card-text" id="monthList">
                       <ul>
                           <li> 24/7 access to our private online community </li>
                           <li> Local and virtual groups and events </li>
@@ -84,12 +84,12 @@
 
             <div class="col-md-4">
               <div class="card">
-                <div class="card-body">
-                  <h1 class="card-title text-center"> Annually </h1> <br>
-                  <h4 class="price-text text-center"> £1,500/year  </h4> <br>
-                  <h6 class="about-text text-justify"> The most effective result will be seen through a long term plan. 
+                <div class="card-body" id="yearCard">
+                  <h1 class="card-title text-center" id="yearly"> Annually </h1> <br>
+                  <h4 class="price-text text-center" id="yearPrice"> £1,500/year  </h4> <br>
+                  <h6 class="about-text text-justify" id="yearDescription"> The most effective result will be seen through a long term plan. 
                       Our dedicated team will always be there for you through your journey. </h6>
-                  <p class="card-text"> 
+                  <p class="card-text" id="yearList"> 
                     <ul>
                         <li> 24/7 ready to answer call and chat service with our counsellors </li>
                         <li> 24/7 access to our private online community </li>
@@ -208,6 +208,8 @@
        </div>
 
     <!-- Optional JavaScript -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="membership.js"></script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
